@@ -21,9 +21,24 @@
     <ClCompile Include="q3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="q5_C.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q5_E.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q5_A.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q5_B.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="q3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
